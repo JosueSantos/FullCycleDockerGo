@@ -2,7 +2,7 @@
 ## Docker
 ### Desafio Go
 
-[Imagem publicada no docker hub. Aqui!](http://www.com.br)
+[Imagem publicada no docker hub. Aqui!](https://hub.docker.com/r/josuesantosm/fullcycle)
 
 Para executar utilize o comando:
 
